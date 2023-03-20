@@ -83,6 +83,7 @@ const GalaxyMap =() => {
           <div style={{ width: '95vw', height: '60vh'}}>
             {planets && (
               <Canvas>
+              <OrbitControls />
               <ambientLight intensity={0.5} />
               <pointLight position={[10, 10, 10]} />
               <CustomStars />
@@ -129,7 +130,6 @@ const GalaxyMap =() => {
                     />
                   </mesh>
                 ))}
-                <OrbitControls />
               </Canvas>
             )}
           </div>

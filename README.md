@@ -1,47 +1,44 @@
-# Used
+# Star Wars App
 
-- Node 16.15.1
-- npm 8.11.0
+This project connects to Star Wars API and presents information about each film and the characters and vehicles featured in the universe.
+It also uses three.js to display 3d planets.
 
-## Available Scripts
+## Links
 
-In the project directory, you can run:
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Planets page:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/92679685/226358411-376a4cc1-481b-40d9-a5d0-2c2150dabf05.png)
+![image](https://user-images.githubusercontent.com/92679685/226358536-1b9ee8f9-d206-4fcc-8570-4a21a1cbb53f.png)
 
-### `npm test`
+### Films page:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/92679685/226358945-4220b2ac-c560-4536-a4d2-3c52e866aada.png)
 
-### `npm run build`
+### Starships page:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/92679685/226359301-2979e955-e9f8-47c1-8213-95f59232c380.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Vehicles page:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/92679685/226359414-bf07c183-b1af-4485-a4ae-17379aa11823.png)
 
-### `npm run eject`
+### People page:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![image](https://user-images.githubusercontent.com/92679685/226359500-eeffcf23-b160-4d32-ac70-1f86c0c4dcb2.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Species page:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![image](https://user-images.githubusercontent.com/92679685/226359627-71d76022-d074-49a5-83ad-b6d72d4d89d3.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Used
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+  - TypeScript
+  - Node - 16.15.1
+  - React.js
+  - HTML
+  - CSS
+  - Bootstrap
+  - SWAPI - https://swapi.dev
