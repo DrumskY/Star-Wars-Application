@@ -1,0 +1,13 @@
+.menu-custom {
+    height: 150px;
+    align-items: center;
+}
+
+.menu-custom div a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu-custom div a:hover{
+    color: #ffc107;
+}

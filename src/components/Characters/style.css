@@ -1,0 +1,9 @@
+.people-image {
+    width: 400px;
+}
+
+@media screen and (max-width: 460px)  {
+    .people-image {
+        width: 300px;
+    }
+}

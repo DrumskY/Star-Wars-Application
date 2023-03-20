@@ -1,0 +1,9 @@
+.species-image {
+    width: 400px;
+}
+
+@media screen and (max-width: 460px)  {
+    .species-image {
+        width: 300px;
+    }
+}

@@ -1,0 +1,9 @@
+.vehicles-image {
+    width: 400px;
+}
+
+@media screen and (max-width: 460px)  {
+    .vehicles-image {
+        width: 300px;
+    }
+}
