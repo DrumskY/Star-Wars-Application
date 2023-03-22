@@ -5,6 +5,7 @@ It also uses three.js to display 3d planets.
 
 ## Links
 
+[Link to app :D](https://main--fabulous-squirrel-dbefd8.netlify.app)
 
 ## Screenshots
 
